@@ -3,7 +3,6 @@
 # Express
 
 
-
 Пример приложения [Express](https://expressjs.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
 :tada: [Демо](https://timeweb-cloud-app-example-express-e1cb.twc1.net)
